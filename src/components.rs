@@ -32,8 +32,8 @@ pub struct Mole {
 #[derive(Component)]
 pub struct StartButton;
 
-/// Marker for the HUD text node that displays the remaining high score on the
-/// menu screen.
+/// Marker for the HUD text node that displays the high score on the menu
+/// screen.
 #[derive(Component)]
 pub struct HighScoreText;
 
